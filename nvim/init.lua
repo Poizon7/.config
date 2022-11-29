@@ -1,0 +1,8 @@
+require "v.options"
+require "v.keymaps"
+require "v.plugins"
+require "v.colorscheme"
+require "v.cmp"
+require "v.lsp"
+require "v.telescope"
+require "v.treesitter"
