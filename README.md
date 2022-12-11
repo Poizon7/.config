@@ -1,1 +1,1 @@
-# config
+My personal arch config directory
